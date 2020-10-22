@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="ld_activityScreenTitles">
+        <item>Dashboard</item>
+        <item>Vyasadeva </item>
+        <item>Preface</item>
+        <item>About-Me</item>
+        <item />
+        <item>Log Out</item>
+    </string-array>
+
+    <array name="ld_activityScreenIcons">
+        <item>@drawable/ic_flower</item>
+        <item>@drawable/ic_quill</item>
+        <item>@drawable/ic_ink</item>
+        <item>@drawable/ic_hoodie</item>
+        <item>0</item>
+        <item>@drawable/ic_logout</item>
+    </array>
+
+</resources>
